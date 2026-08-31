@@ -1,0 +1,68 @@
+name: Weekday walk
+
+on:
+  schedule:
+    - cron: '0 7 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Scheduled and manual runs share one lock; never cancel an active send.
+concurrency:
+  group: weekday-walk-main
+  cancel-in-progress: false
+
+jobs:
+  send-walk:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out latest main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Email next walk and update checklist
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python send_daily_walk.py
+
+      - name: Commit and push checklist
+        shell: bash
+        run: |
+          set -euo pipefail
+          file="constituency_every_house_walks_m22_4fp.txt"
+          git add -- "$file"
+          if git diff --cached --quiet -- "$file"; then
+            echo "No checklist changes to commit."
+            exit 0
+          fi
+
+          git config user.name "Walk Agent"
+          git config user.email "agent@github.com"
+          git commit -m "Mark emailed walk as completed"
+
+          # Retry only persistence, never the email, if main has advanced.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              if ! git pull --rebase origin main; then
+                echo "::error::Email sent, but rebase failed. Reconcile the checklist on main before rerunning."
+                exit 1
+              fi
+            fi
+          done
+          echo "::error::Email sent, but checklist push failed. Reconcile main before rerunning to avoid a duplicate email."
+          exit 1
