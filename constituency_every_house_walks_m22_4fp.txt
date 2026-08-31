@@ -17,7 +17,7 @@ To systematically cover every single house in the constituency boundary:
 SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
 ================================================================================
 
-[ ] Walk 01: Village Heart & St Hilda's Loop
+[X] Walk 01: Village Heart & St Hilda's Loop
     - Target Streets: St Hilda's Rd, Lingard Rd, Allanson Rd, Brett St.
     - Outbound: Exit M22 4FP onto St Hilda's Rd, turn right onto Lingard Rd, weave down Brett St.
     - Return: Loop around Allanson Rd back to St Hilda's Rd.
