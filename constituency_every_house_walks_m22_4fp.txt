@@ -23,7 +23,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Loop around Allanson Rd back to St Hilda's Rd.
     - Distance: ~1.2 miles | Est. Time: 30 mins
 
-[ ] Walk 02: Church Road & Mill Lane Riverside
+[X] Walk 02: Church Road & Mill Lane Riverside
     - Target Streets: Church Rd, Mill Ln, Boat Ln, Riverside Park edge.
     - Outbound: North on Palatine Rd, right onto Church Rd, follow down to Mill Ln and Boat Ln.
     - Return: Retrace along Mill Ln back up Church Rd to M22 4FP.
