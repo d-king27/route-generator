@@ -29,7 +29,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Retrace along Mill Ln back up Church Rd to M22 4FP.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 03: Ford Lane & Mersey View Quadrant
+[X] Walk 03: Ford Lane & Mersey View Quadrant
     - Target Streets: Ford Ln, Mersey View, Bridge St, Reddish Ln.
     - Outbound: Walk east along Ford Ln, sweeping into Mersey View cul-de-sacs.
     - Return: Retrace west down Ford Ln onto Palatine Rd and back.
