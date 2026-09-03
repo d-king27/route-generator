@@ -35,7 +35,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Retrace west down Ford Ln onto Palatine Rd and back.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 04: Royle Green North Grid
+[X] Walk 04: Royle Green North Grid
     - Target Streets: Royle Green Rd (North), Chapel Rd, Suburban Rd.
     - Outbound: South on Palatine Rd, left onto Royle Green Rd, weave down Chapel Rd and Suburban Rd.
     - Return: Back up Royle Green Rd to Palatine Rd.
