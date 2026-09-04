@@ -41,7 +41,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Back up Royle Green Rd to Palatine Rd.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 05: Victoria Road & Princess Road East
+[X] Walk 05: Victoria Road & Princess Road East
     - Target Streets: Victoria Rd, Northern Rd, Princess Rd eastern frontage.
     - Outbound: West along Yewtree Ln, south on Victoria Rd, checking side closes.
     - Return: Loop through Northern Rd back to Yewtree Ln and M22 4FP.
