@@ -47,7 +47,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Loop through Northern Rd back to Yewtree Ln and M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 06: Palatine Road Central Corridor
+[X] Walk 06: Palatine Road Central Corridor
     - Target Streets: Palatine Rd (Main Crescent to Church Rd), local shopping parades & side alleys.
     - Outbound: North on Palatine Rd past shops to the Mersey bridge.
     - Return: South on Palatine Rd, checking east-side residential entrances.
