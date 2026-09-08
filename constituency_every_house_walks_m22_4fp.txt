@@ -53,7 +53,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: South on Palatine Rd, checking east-side residential entrances.
     - Distance: ~1.2 miles | Est. Time: 30 mins
 
-[ ] Walk 07: Church Road Closes & Rectory Court
+[X] Walk 07: Church Road Closes & Rectory Court
     - Target Streets: Rectory Court, Church Rd side avenues, St Wilfrid's area.
     - Outbound: East along Church Rd, entering Rectory Court and church precinct paths.
     - Return: Retrace Church Rd back to Palatine Rd.
