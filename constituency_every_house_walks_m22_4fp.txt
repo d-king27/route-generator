@@ -59,7 +59,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: Retrace Church Rd back to Palatine Rd.
     - Distance: ~1.2 miles | Est. Time: 30 mins
 
-[ ] Walk 08: Royle Green South & Moorfield Area
+[X] Walk 08: Royle Green South & Moorfield Area
     - Target Streets: Moorfield Rd, Royle Green Rd (South), Maple Grove.
     - Outbound: South down Royle Green Rd, weave through Moorfield Rd cul-de-sacs.
     - Return: North back along Royle Green Rd to M22 4FP.
