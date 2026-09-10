@@ -65,7 +65,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: North back along Royle Green Rd to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 09: Longford Road & Northern Crescent
+[X] Walk 09: Longford Road & Northern Crescent
     - Target Streets: Longford Rd, Northern Crescent, West End Ave.
     - Outbound: West towards Princess Parkway, sweeping Longford Rd and Northern Crescent.
     - Return: East along Yewtree Ln to M22 4FP.
