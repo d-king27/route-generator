@@ -71,7 +71,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
     - Return: East along Yewtree Ln to M22 4FP.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 10: Mill Lane Closes & Boat Lane End
+[X] Walk 10: Mill Lane Closes & Boat Lane End
     - Target Streets: Boat Ln end houses, Mill Ln residential closes, Golf Club path boundary.
     - Outbound: East to Mill Ln, full inspection of all dead-end closes near the river.
     - Return: Retrace West to M22 4FP.
