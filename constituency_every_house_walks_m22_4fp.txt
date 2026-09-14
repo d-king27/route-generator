@@ -82,7 +82,7 @@ SECTOR 1: CENTRAL NORTHENDEN VILLAGE GRID (WALKS 1 - 10)
 SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
 ================================================================================
 
-[ ] Walk 11: Kenworthy Lane East
+[X] Walk 11: Kenworthy Lane East
     - Target Streets: Kenworthy Ln (East), Kenworthy Closes, Yewtree Ln junction.
     - Outbound: West on Yewtree Rd, turn right onto Kenworthy Ln, cover eastern closes.
     - Return: Retrace south on Kenworthy Ln to M22 4FP.
