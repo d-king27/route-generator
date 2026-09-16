@@ -94,7 +94,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace east along Kenworthy Ln.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 13: Yewtree Lane West & Side Avenues
+[X] Walk 13: Yewtree Lane West & Side Avenues
     - Target Streets: Yewtree Ln (West end), Ashwood Rd, Elmwood Rd.
     - Outbound: Straight west on Yewtree Ln, sweeping Ashwood and Elmwood closes.
     - Return: Retrace east on Yewtree Ln to M22 4FP.
