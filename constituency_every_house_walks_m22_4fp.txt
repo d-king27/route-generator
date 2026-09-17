@@ -100,7 +100,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace east on Yewtree Ln to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 14: Princess Parkway North Frontage
+[X] Walk 14: Princess Parkway North Frontage
     - Target Streets: Princess Rd service roads (North side), Arrowfield Rd approach.
     - Outbound: West on Yewtree Ln, north onto Princess Rd east service footpaths.
     - Return: South on Princess Rd service road, east on Yewtree Ln.
