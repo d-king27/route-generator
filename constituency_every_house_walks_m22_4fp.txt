@@ -106,7 +106,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: South on Princess Rd service road, east on Yewtree Ln.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 15: Merseybank Way Boundary (Northenden Edge)
+[X] Walk 15: Merseybank Way Boundary (Northenden Edge)
     - Target Streets: Merseybank Way southern closes, Riverside border paths.
     - Outbound: North-west via Kenworthy Ln paths towards the river flood basin houses.
     - Return: Retrace south-east to M22 4FP.
