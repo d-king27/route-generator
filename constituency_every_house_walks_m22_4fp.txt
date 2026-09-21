@@ -112,7 +112,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace south-east to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 16: Kenworthy Woods Residential Pocket
+[X] Walk 16: Kenworthy Woods Residential Pocket
     - Target Streets: Kenworthy Wood frontage homes, Willows Ave.
     - Outbound: North-west into Willows Ave and adjacent quiet residential closes.
     - Return: Retrace south to M22 4FP.
