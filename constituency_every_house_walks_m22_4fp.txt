@@ -118,7 +118,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace south to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 17: Sale Road East Junction Grid
+[X] Walk 17: Sale Road East Junction Grid
     - Target Streets: Sale Rd eastern start, Yewtree Rd junction houses.
     - Outbound: West across Princess Parkway footbridge to Sale Rd eastern residential block.
     - Return: East across footbridge back to M22 4FP.
