@@ -124,7 +124,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: East across footbridge back to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 18: Arrowfield Road Loop 1
+[X] Walk 18: Arrowfield Road Loop 1
     - Target Streets: Arrowfield Rd (East end), Grassington Ave.
     - Outbound: North-west across Parkway bridge, sweep east side of Arrowfield Rd.
     - Return: Retrace back over bridge to M22 4FP.
