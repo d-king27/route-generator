@@ -130,7 +130,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace back over bridge to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 19: Arrowfield Road Loop 2
+[X] Walk 19: Arrowfield Road Loop 2
     - Target Streets: Arrowfield Rd (West end), Kettlebeck Rd.
     - Outbound: North-west across Parkway bridge, sweep Kettlebeck Rd dead-ends.
     - Return: Retrace back to M22 4FP.
