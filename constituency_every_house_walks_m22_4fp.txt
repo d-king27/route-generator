@@ -136,7 +136,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace back to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 20: Kenworthy Meadow Approach
+[X] Walk 20: Kenworthy Meadow Approach
     - Target Streets: Meadow Walk, Kenworthy Park perimeter residences.
     - Outbound: North on Kenworthy Ln to meadow edge housing.
     - Return: South on Kenworthy Ln to M22 4FP.
