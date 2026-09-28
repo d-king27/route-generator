@@ -142,7 +142,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: South on Kenworthy Ln to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 21: Princess Parkway Footbridge Corridor North
+[X] Walk 21: Princess Parkway Footbridge Corridor North
     - Target Streets: Parkway service estate paths north of Yewtree Ln.
     - Outbound: Sweep northern residential buffer roads along Princess Parkway.
     - Return: Retrace south to M22 4FP.
