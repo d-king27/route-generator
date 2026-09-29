@@ -148,7 +148,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
     - Return: Retrace south to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 22: Princess Parkway Footbridge Corridor South
+[X] Walk 22: Princess Parkway Footbridge Corridor South
     - Target Streets: Parkway service estate paths south of Yewtree Ln.
     - Outbound: Sweep southern residential buffer roads along Princess Parkway.
     - Return: Retrace north to M22 4FP.
