@@ -159,7 +159,7 @@ SECTOR 2: NORTH-WEST SECTOR - KENWORTHY WOODS & NORTHERN EDGE (WALKS 11 - 22)
 SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
 ================================================================================
 
-[ ] Walk 23: Sale Road Corridor Central
+[X] Walk 23: Sale Road Corridor Central
     - Target Streets: Sale Rd (Central section), Parkville Rd.
     - Outbound: West across Princess Parkway onto Sale Rd, sweep Parkville Rd.
     - Return: East on Sale Rd, cross Parkway to M22 4FP.
