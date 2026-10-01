@@ -165,7 +165,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: East on Sale Rd, cross Parkway to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 24: Moor End Quadrant
+[X] Walk 24: Moor End Quadrant
     - Target Streets: Moor End, Orton Rd junction, Moor End Closes.
     - Outbound: Fast walk west to Moor End, sweep cul-de-sacs.
     - Return: Retrace east back to M22 4FP.
