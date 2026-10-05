@@ -177,7 +177,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: Retrace east to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 26: Orton Road North
+[X] Walk 26: Orton Road North
     - Target Streets: Orton Rd (North end), Feltham Rd.
     - Outbound: West to Orton Rd north residential loop.
     - Return: East back to M22 4FP.
