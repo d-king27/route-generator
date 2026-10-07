@@ -189,7 +189,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: East back to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 28: Wythenshawe Road Northern Edge 1
+[X] Walk 28: Wythenshawe Road Northern Edge 1
     - Target Streets: Wythenshawe Rd (North side residential frontage near Park entrance).
     - Outbound: South-west towards Wythenshawe Park boundary.
     - Return: North-east retrace to M22 4FP.
