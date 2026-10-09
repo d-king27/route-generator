@@ -201,7 +201,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: North-east retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 30: Button Lane Approach
+[X] Walk 30: Button Lane Approach
     - Target Streets: Button Ln (North end frontage), Moorway.
     - Outbound: West onto Button Ln junction area.
     - Return: East retrace to M22 4FP.
