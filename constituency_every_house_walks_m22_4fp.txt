@@ -207,7 +207,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: East retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 31: Parklands Estate Loop
+[X] Walk 31: Parklands Estate Loop
     - Target Streets: Parklands, Crestlea Ave.
     - Outbound: West to Parklands estate loop.
     - Return: East retrace to M22 4FP.
