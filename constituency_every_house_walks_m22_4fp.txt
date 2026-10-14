@@ -219,7 +219,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: East retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 33: Sale Road West End Border
+[X] Walk 33: Sale Road West End Border
     - Target Streets: Sale Rd western constituency border homes.
     - Outbound: Fast walk west to constituency boundary line on Sale Rd.
     - Return: East retrace to M22 4FP.
