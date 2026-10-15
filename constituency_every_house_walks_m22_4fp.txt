@@ -225,7 +225,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
     - Return: East retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 34: Rackhouse Road West
+[X] Walk 34: Rackhouse Road West
     - Target Streets: Rackhouse Rd (West end), Mapleway.
     - Outbound: Fast walk west to Rackhouse Rd west section.
     - Return: East retrace to M22 4FP.
