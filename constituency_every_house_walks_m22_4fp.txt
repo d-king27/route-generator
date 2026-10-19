@@ -242,7 +242,7 @@ SECTOR 3: WESTERN SECTOR - NORTHERN MOOR BORDER & PARK EDGE (WALKS 23 - 35)
 SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
 ================================================================================
 
-[ ] Walk 36: Longley Lane North Grid
+[X] Walk 36: Longley Lane North Grid
     - Target Streets: Longley Ln (North end), Shady Ln junction houses.
     - Outbound: South on Palatine Rd, east onto Longley Ln north section.
     - Return: North-west retrace to M22 4FP.
