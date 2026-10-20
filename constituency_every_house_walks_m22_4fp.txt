@@ -248,7 +248,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 37: Shenton Park Residential Area
+[X] Walk 37: Shenton Park Residential Area
     - Target Streets: Shenton Park, Styal Rd north junction.
     - Outbound: South-east to Shenton Park loop.
     - Return: North-west retrace to M22 4FP.
