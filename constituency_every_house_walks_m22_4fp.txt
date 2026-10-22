@@ -260,7 +260,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 39: Longley Lane Central Closes
+[X] Walk 39: Longley Lane Central Closes
     - Target Streets: Longley Ln side closes, Wearlee area frontage.
     - Outbound: South-east on Longley Ln, sweep side cul-de-sacs.
     - Return: North-west retrace to M22 4FP.
