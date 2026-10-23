@@ -266,7 +266,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 40: Altrincham Road East Junction
+[X] Walk 40: Altrincham Road East Junction
     - Target Streets: Altrincham Rd east section near Sharston bypass.
     - Outbound: South down Palatine Rd to Altrincham Rd east.
     - Return: North retrace to M22 4FP.
