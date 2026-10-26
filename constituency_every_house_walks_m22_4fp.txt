@@ -272,7 +272,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 41: Roseberry Road Loop
+[X] Walk 41: Roseberry Road Loop
     - Target Streets: Roseberry Rd, Crossley Rd.
     - Outbound: South-east into Roseberry Rd grid.
     - Return: North-west retrace to M22 4FP.
