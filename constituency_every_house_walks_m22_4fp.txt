@@ -278,7 +278,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 42: Sharston Mount Sector
+[X] Walk 42: Sharston Mount Sector
     - Target Streets: Sharston Mount, Concorde Place.
     - Outbound: South down Sharston Rd to Sharston Mount.
     - Return: North retrace to M22 4FP.
