@@ -284,7 +284,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 43: Longley Lane South & M56 Buffer
+[X] Walk 43: Longley Lane South & M56 Buffer
     - Target Streets: Longley Ln south residential buffer streets above M56.
     - Outbound: South-east down Longley Ln to motorway boundary.
     - Return: North-west retrace to M22 4FP.
