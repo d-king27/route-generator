@@ -290,7 +290,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 44: Gatley Border Crescent
+[X] Walk 44: Gatley Border Crescent
     - Target Streets: Gatley border residential crescent streets off Longley Ln.
     - Outbound: South-east towards Gatley boundary line.
     - Return: North-west retrace to M22 4FP.
