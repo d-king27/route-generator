@@ -296,7 +296,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 45: Styal Road Perimeter Housing
+[X] Walk 45: Styal Road Perimeter Housing
     - Target Streets: Styal Rd north frontage homes.
     - Outbound: South-east to Styal Rd frontage.
     - Return: North-west retrace to M22 4FP.
