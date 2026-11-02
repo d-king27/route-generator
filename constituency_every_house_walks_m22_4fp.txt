@@ -302,7 +302,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 46: Sharston Green South Closes
+[X] Walk 46: Sharston Green South Closes
     - Target Streets: Sharston Green southern closes and avenues.
     - Outbound: South on Sharston Rd to southern closes.
     - Return: North retrace to M22 4FP.
