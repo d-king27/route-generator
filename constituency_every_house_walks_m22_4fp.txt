@@ -314,7 +314,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
     - Return: North-west retrace to M22 4FP.
     - Distance: ~1.6 miles | Est. Time: 30 mins
 
-[ ] Walk 48: Bradley Lane Sector
+[X] Walk 48: Bradley Lane Sector
     - Target Streets: Bradley Ln north side housing.
     - Outbound: South-east to Bradley Ln area.
     - Return: North-west retrace to M22 4FP.
