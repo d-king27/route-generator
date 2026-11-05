@@ -325,7 +325,7 @@ SECTOR 4: SOUTH-EAST SECTOR - SHARSTON & LONGLEY CORRIDOR (WALKS 36 - 48)
 SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
 ================================================================================
 
-[ ] Walk 49: Roundwood Road North
+[X] Walk 49: Roundwood Road North
     - Target Streets: Roundwood Rd (North section), Woodhall Rd.
     - Outbound: South on Palatine Rd, right onto Roundwood Rd north.
     - Return: North retrace to M22 4FP.
