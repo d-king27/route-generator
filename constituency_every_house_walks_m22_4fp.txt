@@ -331,7 +331,7 @@ SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 50: Roundwood Road South Loop
+[X] Walk 50: Roundwood Road South Loop
     - Target Streets: Roundwood Rd (South section), Somerby Rd.
     - Outbound: South along Roundwood Rd, sweep Somerby Rd cul-de-sacs.
     - Return: North retrace to M22 4FP.
