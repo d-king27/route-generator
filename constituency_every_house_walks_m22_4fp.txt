@@ -337,7 +337,7 @@ SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.4 miles | Est. Time: 30 mins
 
-[ ] Walk 51: Royle Green South Closes
+[X] Walk 51: Royle Green South Closes
     - Target Streets: Royle Green Rd southern closes & St Hilda's south extent.
     - Outbound: South on Royle Green Rd, inspect all side closes.
     - Return: North retrace to M22 4FP.
