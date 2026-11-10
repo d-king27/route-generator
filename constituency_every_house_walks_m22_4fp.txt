@@ -343,7 +343,7 @@ SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.3 miles | Est. Time: 30 mins
 
-[ ] Walk 52: Hollyhedge Road North Fringe
+[X] Walk 52: Hollyhedge Road North Fringe
     - Target Streets: Hollyhedge Rd northern frontage homes (above M56).
     - Outbound: South along Roundwood Rd to Hollyhedge Rd edge.
     - Return: North retrace to M22 4FP.
