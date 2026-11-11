@@ -349,7 +349,7 @@ SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 53: Benchill Road Boundary North
+[X] Walk 53: Benchill Road Boundary North
     - Target Streets: Benchill Rd northern residential buffer streets.
     - Outbound: South to Benchill boundary line.
     - Return: North retrace to M22 4FP.
