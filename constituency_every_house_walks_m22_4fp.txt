@@ -355,7 +355,7 @@ SECTOR 5: SOUTHERN POCKET - BENCHILL BORDER (WALKS 49 - 60)
     - Return: North retrace to M22 4FP.
     - Distance: ~1.5 miles | Est. Time: 30 mins
 
-[ ] Walk 54: Greenwood Road Border East
+[X] Walk 54: Greenwood Road Border East
     - Target Streets: Greenwood Rd eastern closes near motorway junction.
     - Outbound: South-west via Roundwood Rd to Greenwood Rd east.
     - Return: North-east retrace to M22 4FP.
